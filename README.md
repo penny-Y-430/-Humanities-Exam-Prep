@@ -1,2 +1,2 @@
-# -Humanities-Exam-Prep
-人文-考试-准备
+#humanities-exam-prep.skill
+人文-考试-准备-skill
